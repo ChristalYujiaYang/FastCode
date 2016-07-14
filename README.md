@@ -1,0 +1,2 @@
+# FastCode
+improvement of SlowCode
